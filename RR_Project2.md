@@ -376,7 +376,7 @@ healthImpactChart <- ggplot(head(healthImpactData, 10),
 print(healthImpactChart)
 ```
 
-![](RR_Project2_files/figure-gfm/unnamed-chunk-30-1.png)<!-- -->
+![Health Costs](HealthChart.png)<!-- -->
 
 ## Question 2 - Which events have the greatest economic consequenses?
 
