@@ -392,7 +392,7 @@ damageCostImpactChart <- ggplot(head(damageCostImpactData, 10),
 print(damageCostImpactChart)
 ```
 
-![](RR_Project2_files/figure-gfm/unnamed-chunk-31-1.png)<!-- -->
+![Econ Chart](EconChart.png)<!-- -->
 
 # Conclusion
 
